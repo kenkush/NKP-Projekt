@@ -1,3 +1,6 @@
-# NKP-Projekt
-Проект  реформы системы управления
-Ссылка на Техзадание NKP-Tech-Spec: https://github.com/kenkush/NKP-Tech-Spec
+#### 1.  NKP-Projekt  ... Общий проект_ идеология, это проект  реформы системы управления
+... Ссылка на репозиторий по общему проекту: https://github.com/kenkush/NKP-Projekt      
+#### 2. NKP-Tech-Spec  ... Техзадание
+... Ссылка на репозиторий по Техзаданию: https://github.com/kenkush/NKP-Tech-Spec
+#### 3. NKP-Forms ... Хранилище всех бланков, таблиц и форм для работы граждан в приложении
+... Ссылка на репозиторий бланков, таблиц и форм: https://github.com/kenkush/NKP-Forms           
