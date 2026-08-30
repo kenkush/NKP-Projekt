@@ -21,4 +21,5 @@
 Telegram: @nkp_ulan  
   
  file: FUNDING_AND_RIGHTS.md
+ 
  30.08.2026г.  
